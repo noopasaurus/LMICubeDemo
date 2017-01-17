@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         twelve.setOnClickListener(this);
 
         //tempTextView = (TextView) findViewById(R.id.textView);
-
+    // hopin this works
 
         cube = new RubiksCube();
         updateDisplay();
